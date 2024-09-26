@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Airstrike";
+  src: url("../assets/fonts/AirStrike/airstrike.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Airstrike3D";
+  src: url("../assets/fonts/AirStrike/airstrike3d.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeAcad";
+  src: url("../assets/fonts/AirStrike/airstrikeacad.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeB3D";
+  src: url("../assets/fonts/AirStrike/airstrikeb3d.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeBold";
+  src: url("../assets/fonts/AirStrike/airstrikebold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeBullet";
+  src: url("../assets/fonts/AirStrike/airstrikebullet.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeChrome";
+  src: url("../assets/fonts/AirStrike/airstrikechrome.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeCond";
+  src: url("../assets/fonts/AirStrike/airstrikecond.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeExpand";
+  src: url("../assets/fonts/AirStrike/airstrikeexpand.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeGrad";
+  src: url("../assets/fonts/AirStrike/airstrikegrad.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeHalf";
+  src: url("../assets/fonts/AirStrike/airstrikehalf.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeLaser";
+  src: url("../assets/fonts/AirStrike/airstrikelaser.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikeOut";
+  src: url("../assets/fonts/AirStrike/airstrikeout.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AirstrikePlat";
+  src: url("../assets/fonts/AirStrike/airstrikeplat.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
