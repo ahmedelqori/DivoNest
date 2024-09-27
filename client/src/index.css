@@ -1,3 +1,55 @@
+/* ---- START IMPORT FONTS ---- */
+@import "./style/airstrike.css";
+@import "./style/motionpicture.css";
+
+/* ---- END IMPORT FONTS ---- */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* ---- START GLOBAL STYLE ---- */
+
+:root {
+  --white-color: #ffffff;
+  --silver-color: #c1c1c1;
+  --charcoal-color: #2c4251;
+  --indian-red-color: #d16666;
+  --news-red-color: #c03939;
+  --yellow-green-color: #b6c649;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Reset margin and padding */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.6;
+  background-color: var(--white-color);
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 100vh;
+}
